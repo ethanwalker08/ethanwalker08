@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ethanwalker08
-- 👀 I’m interested in Game Development and Coding
-- 🌱 I’m currently learning Unity Development and C# as well as Ruby
-- 📫 How to reach me--- you can email me at ethanwalker23081@gmail.com or message me on Instagram at ethanwalker.s1
+- 👀 I’m interested in Game Development and Coding in Java and other OOP languages
+- 🌱 I’m currently learning Unity Development with C#
+- 📫 How to reach me--- you can email me at ethanwalker23081@gmail.com
