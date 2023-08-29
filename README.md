@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ethanwalker08
-- 👀 I’m interested in Game Development and Coding in Java and other OOP languages
-- 🌱 I’m currently learning Unity Development with C# and React.JS Fullstack development
+- 👀 I’m interested in Software Development in a variety of OOP Languages.
+- 🌱 I’m currently learning React.JS Fullstack development and Godot Game development
 - 📫 How to reach me--- you can email me at ethanwalker23081@gmail.com
