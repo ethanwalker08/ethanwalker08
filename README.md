@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ethanwalker08
-- 👀 I’m interested in Software Development in a variety of OOP Languages.
-- 🌱 I’m currently learning Python as well as Godot Game Development
+- 👀 I’m a Software Developer mostly working with Web and Mobile applications.
 - 📫 How to reach me--- you can email me at ethanwalker23081@gmail.com
